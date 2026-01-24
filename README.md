@@ -23,7 +23,7 @@ my approach was sorting 5 and less elements hardcoded simply, and for >6 element
 Clone the repo and build it with `make`:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/push_swap.git
+git clone https://github.com/yabuawad/push_swap.git
 ```
 ```bash
 make
@@ -31,5 +31,21 @@ make
 ## checking output?
 you can check if the number of operations used is as few as required by a program called **checker**
 the checker checks 
-cd push_swap
-make
+editing this laterrrrRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rrrrrrrrrrrrrrrrrr
