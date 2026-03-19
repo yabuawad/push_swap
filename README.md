@@ -36,15 +36,16 @@ make
 To sort a list of integers:
 ```bash
 ./push_swap 3 2 5 1 4
-
+```
 The program will output a sequence of operations to sort the stack in ascending order.
 To verify the result, use the checker program:
 ```bash
 ./checker 3 2 5 1 4
+```
 You can also pipe the output of push_swap directly into checker:
 ```bash
 ./push_swap 3 2 5 1 4 | ./checker 3 2 5 1 4
-
+```
 ## Features
 -Sorts numbers using a limited set of stack operations
 -Handles small stacks (≤ 5 elements) with hardcoded logic
