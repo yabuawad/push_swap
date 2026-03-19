@@ -31,7 +31,7 @@ Clone the repository and build it with `make`:
 git clone https://github.com/yabuawad/push_swap.git
 cd push_swap
 make
-
+```
 ## Usage
 To sort a list of integers:
 ```bash
